@@ -1,0 +1,56 @@
+[2023-11-05 14:38:14] [info]  [  788] Apache Commons Daemon procrun (1.3.4.0 32-bit) started.
+[2023-11-05 14:38:15] [info]  [  788] Running Service 'Tomcat10m4'...
+[2023-11-05 14:38:15] [info]  [ 9732] Starting service...
+[2023-11-05 14:38:15] [error] [12008] FindClass org/apache/catalina/startup/Bootstrap failed
+[2023-11-05 14:38:15] [error] [ 9732] Failed to start Java
+[2023-11-05 14:38:15] [error] [ 9732] ServiceStart returned 4.
+[2023-11-05 14:38:15] [info]  [  788] Run service finished.
+[2023-11-05 14:38:15] [info]  [  788] Apache Commons Daemon procrun finished.
+[2023-11-05 17:16:42] [info]  [ 6252] Apache Commons Daemon procrun (1.3.4.0 32-bit) started.
+[2023-11-05 17:16:42] [info]  [ 6252] Running Service 'Tomcat10m4'...
+[2023-11-05 17:16:42] [info]  [ 9304] Starting service...
+[2023-11-05 17:16:43] [error] [ 1512] FindClass org/apache/catalina/startup/Bootstrap failed
+[2023-11-05 17:16:43] [error] [ 9304] Failed to start Java
+[2023-11-05 17:16:43] [error] [ 9304] ServiceStart returned 4.
+[2023-11-05 17:16:43] [info]  [ 6252] Run service finished.
+[2023-11-05 17:16:43] [info]  [ 6252] Apache Commons Daemon procrun finished.
+[2023-11-05 17:16:51] [info]  [12032] Apache Commons Daemon procrun (1.3.4.0 32-bit) started.
+[2023-11-05 17:16:51] [info]  [12032] Running Service 'Tomcat10m4'...
+[2023-11-05 17:16:51] [info]  [11940] Starting service...
+[2023-11-05 17:16:52] [error] [ 9184] FindClass org/apache/catalina/startup/Bootstrap failed
+[2023-11-05 17:16:52] [error] [11940] Failed to start Java
+[2023-11-05 17:16:52] [error] [11940] ServiceStart returned 4.
+[2023-11-05 17:16:52] [info]  [12032] Run service finished.
+[2023-11-05 17:16:52] [info]  [12032] Apache Commons Daemon procrun finished.
+[2023-11-05 17:17:04] [info]  [ 8800] Apache Commons Daemon procrun (1.3.4.0 32-bit) started.
+[2023-11-05 17:17:04] [info]  [ 8800] Running Service 'Tomcat10m4'...
+[2023-11-05 17:17:04] [info]  [11164] Starting service...
+[2023-11-05 17:17:04] [error] [12040] FindClass org/apache/catalina/startup/Bootstrap failed
+[2023-11-05 17:17:04] [error] [11164] Failed to start Java
+[2023-11-05 17:17:04] [error] [11164] ServiceStart returned 4.
+[2023-11-05 17:17:04] [info]  [ 8800] Run service finished.
+[2023-11-05 17:17:04] [info]  [ 8800] Apache Commons Daemon procrun finished.
+[2023-11-05 17:17:13] [info]  [ 2340] Apache Commons Daemon procrun (1.3.4.0 32-bit) started.
+[2023-11-05 17:17:13] [info]  [ 2340] Running Service 'Tomcat10m4'...
+[2023-11-05 17:17:13] [info]  [11676] Starting service...
+[2023-11-05 17:17:13] [error] [ 3456] FindClass org/apache/catalina/startup/Bootstrap failed
+[2023-11-05 17:17:13] [error] [11676] Failed to start Java
+[2023-11-05 17:17:13] [error] [11676] ServiceStart returned 4.
+[2023-11-05 17:17:13] [info]  [ 2340] Run service finished.
+[2023-11-05 17:17:13] [info]  [ 2340] Apache Commons Daemon procrun finished.
+[2023-11-05 17:17:18] [info]  [12188] Apache Commons Daemon procrun (1.3.4.0 32-bit) started.
+[2023-11-05 17:17:18] [info]  [12188] Running Service 'Tomcat10m4'...
+[2023-11-05 17:17:18] [info]  [ 9020] Starting service...
+[2023-11-05 17:17:18] [error] [ 8572] FindClass org/apache/catalina/startup/Bootstrap failed
+[2023-11-05 17:17:18] [error] [ 9020] Failed to start Java
+[2023-11-05 17:17:18] [error] [ 9020] ServiceStart returned 4.
+[2023-11-05 17:17:18] [info]  [12188] Run service finished.
+[2023-11-05 17:17:18] [info]  [12188] Apache Commons Daemon procrun finished.
+[2023-11-05 17:17:41] [info]  [ 3412] Apache Commons Daemon procrun (1.3.4.0 32-bit) started.
+[2023-11-05 17:17:41] [info]  [ 3412] Running Service 'Tomcat10m4'...
+[2023-11-05 17:17:41] [info]  [ 9444] Starting service...
+[2023-11-05 17:17:41] [error] [    8] FindClass org/apache/catalina/startup/Bootstrap failed
+[2023-11-05 17:17:41] [error] [ 9444] Failed to start Java
+[2023-11-05 17:17:41] [error] [ 9444] ServiceStart returned 4.
+[2023-11-05 17:17:41] [info]  [ 3412] Run service finished.
+[2023-11-05 17:17:41] [info]  [ 3412] Apache Commons Daemon procrun finished.
